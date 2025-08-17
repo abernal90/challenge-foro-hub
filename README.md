@@ -65,7 +65,7 @@ db/migration/
 
 ## 📷 Swagger - Operaciones Disponibles
 
-![Operaciones Swagger](https://lh3.google.com/u/1/d/1AZN2YG9plIi1atLTrrIGccaPJU59QxwQ=w1920-h1080-iv1?auditContext=forDisplay)
+![Operaciones Swagger](https://drive.google.com/uc?export=view&id=1AZN2YG9plIi1atLTrrIGccaPJU59QxwQ)
 
 ---
 
