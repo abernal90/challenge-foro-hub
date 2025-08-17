@@ -23,7 +23,7 @@ public class UsuarioService {
 	
 	public ResponseAltaUsuario guardar(RequestAltaUsuario request) {
 		
-		var existe = usuarioRepository.findByCorreoElectronico(request.nombre());
+		var existe = usuarioRepository.findByCorreoElectronico(request.correoElectronico());
 		if(existe != null) {
 			throw new ValidacionException("El usuario ya se encuentra registrado");
 		}
