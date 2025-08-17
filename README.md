@@ -71,7 +71,7 @@ db/migration/
 
 ## 🗃️ Diagrama de Base de Datos
 
-![Diagrama MySQL](https://drive.google.com/u/1/drive-viewer/AKGpiha-2SAKVBegEvaazy2u9Nqszr9rCism9v57Q75W3gzSu7Wv2DmAiCbnJxAnBfH-tnQiCC6cMFpfkFyvcZH6DYsZgwW4q7hTqg=s2560)
+![Diagrama MySQL](https://drive.google.com/uc?export=view&id=1aV3qxpnnXWHDFyU82434oIT0ArRxdT78)
 
 ---
 
